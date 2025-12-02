@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+
+    "COSMOS_ENDPOINT": "https://localhost:8081",
+    "COSMOS_KEY": "C2y6yDjf5/R+ob0N8A7Cgv30VRDJIWEHLM+4QDU5DE2nQ9nDuVTqobD4b8mGGyPMbIZnqyMsEcaGQy67XIw/Jw==",
+
+    "COSMOS_DB_NAME": "ai-lab-db",
+    "COSMOS_PLANS_CONTAINER": "plans",
+    "COSMOS_SUBSCRIPTIONS_CONTAINER": "subscriptions",
+    "COSMOS_LABS_CONTAINER": "labs",
+
+    "ENABLE_INFRA": "false",
+    "DEFAULT_LOCATION": "local-dev"
+  }
+}
